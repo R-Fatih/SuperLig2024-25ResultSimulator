@@ -2906,13 +2906,13 @@
   {
     "HomeTeam": "Antalyaspor",
     "AwayTeam": "Samsunspor",
-    "HomeScore": null,
-    "AwayScore": null,
+    "HomeScore": 2,
+    "AwayScore": 1,
     "MatchDate": "2025-04-05T00:00:00",
     "Week": 30,
     "HomeLogo": "https://im.mackolik.com/img/logo/buyuk/455.gif",
     "AwayLogo": "https://im.mackolik.com/img/logo/buyuk/8.gif",
-    "IsFinished": false
+    "IsFinished": true
   },
   {
     "HomeTeam": "Alanyaspor",
