@@ -2928,24 +2928,24 @@
   {
     "HomeTeam": "Hatayspor",
     "AwayTeam": "Eyüpspor",
-    "HomeScore": null,
-    "AwayScore": null,
+    "HomeScore": 0,
+    "AwayScore": 1,
     "MatchDate": "2025-04-06T00:00:00",
     "Week": 30,
     "HomeLogo": "https://im.mackolik.com/img/logo/buyuk/574.gif",
     "AwayLogo": "https://im.mackolik.com/img/logo/buyuk/557.gif",
-    "IsFinished": false
+    "IsFinished": true
   },
   {
     "HomeTeam": "Fenerbahçe",
     "AwayTeam": "Trabzonspor",
-    "HomeScore": null,
-    "AwayScore": null,
+    "HomeScore": 4,
+    "AwayScore": 1,
     "MatchDate": "2025-04-06T00:00:00",
     "Week": 30,
     "HomeLogo": "https://im.mackolik.com/img/logo/buyuk/2.gif",
     "AwayLogo": "https://im.mackolik.com/img/logo/buyuk/4.gif",
-    "IsFinished": false
+    "IsFinished": true
   },
   {
     "HomeTeam": "Göztepe",
