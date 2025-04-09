@@ -2948,26 +2948,26 @@
     "IsFinished": true
   },
   {
-    "HomeTeam": "Göztepe",
-    "AwayTeam": "Gaziantep FK",
-    "HomeScore": null,
-    "AwayScore": null,
-    "MatchDate": "2025-04-07T00:00:00",
-    "Week": 30,
-    "HomeLogo": "https://im.mackolik.com/img/logo/buyuk/15.gif",
-    "AwayLogo": "https://im.mackolik.com/img/logo/buyuk/572.gif",
-    "IsFinished": false
-  },
-  {
     "HomeTeam": "Kasımpaşa",
     "AwayTeam": "Beşiktaş",
-    "HomeScore": null,
-    "AwayScore": null,
+    "HomeScore": 1,
+    "AwayScore": 1,
     "MatchDate": "2025-04-07T00:00:00",
     "Week": 30,
     "HomeLogo": "https://im.mackolik.com/img/logo/buyuk/656.gif",
     "AwayLogo": "https://im.mackolik.com/img/logo/buyuk/3.gif",
-    "IsFinished": false
+    "IsFinished": true
+  },
+  {
+    "HomeTeam": "Göztepe",
+    "AwayTeam": "Gaziantep FK",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "MatchDate": "2025-04-07T00:00:00",
+    "Week": 30,
+    "HomeLogo": "https://im.mackolik.com/img/logo/buyuk/15.gif",
+    "AwayLogo": "https://im.mackolik.com/img/logo/buyuk/572.gif",
+    "IsFinished": true
   },
   {
     "HomeTeam": "Samsunspor",
@@ -3014,28 +3014,6 @@
     "IsFinished": false
   },
   {
-    "HomeTeam": "Kayserispor",
-    "AwayTeam": "Kasımpaşa",
-    "HomeScore": null,
-    "AwayScore": null,
-    "MatchDate": "2025-04-13T00:00:00",
-    "Week": 31,
-    "HomeLogo": "https://im.mackolik.com/img/logo/buyuk/570.gif",
-    "AwayLogo": "https://im.mackolik.com/img/logo/buyuk/656.gif",
-    "IsFinished": false
-  },
-  {
-    "HomeTeam": "Trabzonspor",
-    "AwayTeam": "Çaykur Rizespor",
-    "HomeScore": null,
-    "AwayScore": null,
-    "MatchDate": "2025-04-13T00:00:00",
-    "Week": 31,
-    "HomeLogo": "https://im.mackolik.com/img/logo/buyuk/4.gif",
-    "AwayLogo": "https://im.mackolik.com/img/logo/buyuk/448.gif",
-    "IsFinished": false
-  },
-  {
     "HomeTeam": "Gaziantep FK",
     "AwayTeam": "Hatayspor",
     "HomeScore": null,
@@ -3047,6 +3025,17 @@
     "IsFinished": false
   },
   {
+    "HomeTeam": "Kayserispor",
+    "AwayTeam": "Kasımpaşa",
+    "HomeScore": null,
+    "AwayScore": null,
+    "MatchDate": "2025-04-13T00:00:00",
+    "Week": 31,
+    "HomeLogo": "https://im.mackolik.com/img/logo/buyuk/570.gif",
+    "AwayLogo": "https://im.mackolik.com/img/logo/buyuk/656.gif",
+    "IsFinished": false
+  },
+  {
     "HomeTeam": "Sivasspor",
     "AwayTeam": "Fenerbahçe",
     "HomeScore": null,
@@ -3055,6 +3044,17 @@
     "Week": 31,
     "HomeLogo": "https://im.mackolik.com/img/logo/buyuk/446.gif",
     "AwayLogo": "https://im.mackolik.com/img/logo/buyuk/2.gif",
+    "IsFinished": false
+  },
+  {
+    "HomeTeam": "Trabzonspor",
+    "AwayTeam": "Çaykur Rizespor",
+    "HomeScore": null,
+    "AwayScore": null,
+    "MatchDate": "2025-04-13T00:00:00",
+    "Week": 31,
+    "HomeLogo": "https://im.mackolik.com/img/logo/buyuk/4.gif",
+    "AwayLogo": "https://im.mackolik.com/img/logo/buyuk/448.gif",
     "IsFinished": false
   },
   {
