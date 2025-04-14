@@ -3060,13 +3060,13 @@
   {
     "HomeTeam": "Eyüpspor",
     "AwayTeam": "Adana Demirspor",
-    "HomeScore": null,
-    "AwayScore": null,
+    "HomeScore": 6,
+    "AwayScore": 0,
     "MatchDate": "2025-04-14T00:00:00",
     "Week": 31,
     "HomeLogo": "https://im.mackolik.com/img/logo/buyuk/557.gif",
     "AwayLogo": "https://im.mackolik.com/img/logo/buyuk/454.gif",
-    "IsFinished": false
+    "IsFinished": true
   },
   {
     "HomeTeam": "Galatasaray",
