@@ -3071,24 +3071,24 @@
   {
     "HomeTeam": "Galatasaray",
     "AwayTeam": "Bodrum FK",
-    "HomeScore": null,
-    "AwayScore": null,
+    "HomeScore": 2,
+    "AwayScore": 0,
     "MatchDate": "2025-04-18T00:00:00",
     "Week": 32,
     "HomeLogo": "https://im.mackolik.com/img/logo/buyuk/1.gif",
     "AwayLogo": "https://im.mackolik.com/img/logo/buyuk/12201.gif",
-    "IsFinished": false
+    "IsFinished": true
   },
   {
     "HomeTeam": "Hatayspor",
     "AwayTeam": "Konyaspor",
-    "HomeScore": null,
-    "AwayScore": null,
+    "HomeScore": 2,
+    "AwayScore": 3,
     "MatchDate": "2025-04-18T00:00:00",
     "Week": 32,
     "HomeLogo": "https://im.mackolik.com/img/logo/buyuk/574.gif",
     "AwayLogo": "https://im.mackolik.com/img/logo/buyuk/447.gif",
-    "IsFinished": false
+    "IsFinished": true
   },
   {
     "HomeTeam": "Kasımpaşa",
