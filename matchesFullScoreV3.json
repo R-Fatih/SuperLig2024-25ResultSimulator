@@ -3170,13 +3170,13 @@
   {
     "HomeTeam": "Beşiktaş",
     "AwayTeam": "Hatayspor",
-    "HomeScore": null,
-    "AwayScore": null,
+    "HomeScore": 5,
+    "AwayScore": 1,
     "MatchDate": "2025-04-25T00:00:00",
     "Week": 33,
     "HomeLogo": "https://im.mackolik.com/img/logo/buyuk/3.gif",
     "AwayLogo": "https://im.mackolik.com/img/logo/buyuk/574.gif",
-    "IsFinished": false
+    "IsFinished": true
   },
   {
     "HomeTeam": "Sivasspor",
