@@ -3236,24 +3236,24 @@
   {
     "HomeTeam": "Eyüpspor",
     "AwayTeam": "Galatasaray",
-    "HomeScore": null,
-    "AwayScore": null,
+    "HomeScore": 1,
+    "AwayScore": 5,
     "MatchDate": "2025-04-27T00:00:00",
     "Week": 33,
     "HomeLogo": "https://im.mackolik.com/img/logo/buyuk/557.gif",
     "AwayLogo": "https://im.mackolik.com/img/logo/buyuk/1.gif",
-    "IsFinished": false
+    "IsFinished": true
   },
   {
     "HomeTeam": "Kayserispor",
     "AwayTeam": "Çaykur Rizespor",
-    "HomeScore": null,
-    "AwayScore": null,
+    "HomeScore": 1,
+    "AwayScore": 0,
     "MatchDate": "2025-04-27T00:00:00",
     "Week": 33,
     "HomeLogo": "https://im.mackolik.com/img/logo/buyuk/570.gif",
     "AwayLogo": "https://im.mackolik.com/img/logo/buyuk/448.gif",
-    "IsFinished": false
+    "IsFinished": true
   },
   {
     "HomeTeam": "Göztepe",
