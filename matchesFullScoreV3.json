@@ -3390,13 +3390,13 @@
   {
     "HomeTeam": "Eyüpspor",
     "AwayTeam": "Kasımpaşa",
-    "HomeScore": 1,
-    "AwayScore": 0,
+    "HomeScore": null,
+    "AwayScore": null,
     "MatchDate": "2025-05-10T00:00:00",
     "Week": 35,
     "HomeLogo": "https://im.mackolik.com/img/logo/buyuk/557.gif",
     "AwayLogo": "https://im.mackolik.com/img/logo/buyuk/656.gif",
-    "IsFinished": true
+    "IsFinished": false
   },
   {
     "HomeTeam": "Konyaspor",
