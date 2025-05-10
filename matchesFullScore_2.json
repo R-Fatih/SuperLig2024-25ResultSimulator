@@ -4070,103 +4070,103 @@
     "IsFinished": true
   },
   {
-    "HomeTeam": "Adanaspor",
-    "AwayTeam": "Boluspor",
-    "HomeScore": null,
-    "AwayScore": null,
-    "MatchDate": "2025-05-10T00:00:00",
-    "Week": 38,
-    "HomeLogo": "https://im.mackolik.com/img/logo/buyuk/14.gif",
-    "AwayLogo": "https://im.mackolik.com/img/logo/buyuk/621.gif",
-    "IsFinished": false
-  },
-  {
     "HomeTeam": "Bandırmaspor",
     "AwayTeam": "Pendikspor",
-    "HomeScore": null,
-    "AwayScore": null,
+    "HomeScore": 2,
+    "AwayScore": 1,
     "MatchDate": "2025-05-10T00:00:00",
     "Week": 38,
     "HomeLogo": "https://im.mackolik.com/img/logo/buyuk/633.gif",
     "AwayLogo": "https://im.mackolik.com/img/logo/buyuk/659.gif",
-    "IsFinished": false
-  },
-  {
-    "HomeTeam": "Fatih Karagümrük",
-    "AwayTeam": "Iğdır FK",
-    "HomeScore": null,
-    "AwayScore": null,
-    "MatchDate": "2025-05-10T00:00:00",
-    "Week": 38,
-    "HomeLogo": "https://im.mackolik.com/img/logo/buyuk/537.gif",
-    "AwayLogo": "https://im.mackolik.com/img/logo/buyuk/42056.gif",
-    "IsFinished": false
-  },
-  {
-    "HomeTeam": "İstanbulspor",
-    "AwayTeam": "Çorum FK",
-    "HomeScore": null,
-    "AwayScore": null,
-    "MatchDate": "2025-05-10T00:00:00",
-    "Week": 38,
-    "HomeLogo": "https://im.mackolik.com/img/logo/buyuk/11.gif",
-    "AwayLogo": "https://im.mackolik.com/img/logo/buyuk/9665.gif",
-    "IsFinished": false
+    "IsFinished": true
   },
   {
     "HomeTeam": "MKE Ankaragücü",
     "AwayTeam": "Amed SK",
-    "HomeScore": null,
-    "AwayScore": null,
+    "HomeScore": 2,
+    "AwayScore": 0,
     "MatchDate": "2025-05-10T00:00:00",
     "Week": 38,
     "HomeLogo": "https://im.mackolik.com/img/logo/buyuk/9.gif",
     "AwayLogo": "https://im.mackolik.com/img/logo/buyuk/591.gif",
-    "IsFinished": false
+    "IsFinished": true
+  },
+  {
+    "HomeTeam": "Adanaspor",
+    "AwayTeam": "Boluspor",
+    "HomeScore": 0,
+    "AwayScore": 7,
+    "MatchDate": "2025-05-10T00:00:00",
+    "Week": 38,
+    "HomeLogo": "https://im.mackolik.com/img/logo/buyuk/14.gif",
+    "AwayLogo": "https://im.mackolik.com/img/logo/buyuk/621.gif",
+    "IsFinished": true
   },
   {
     "HomeTeam": "Sakaryaspor",
     "AwayTeam": "Esenler Erokspor",
-    "HomeScore": null,
-    "AwayScore": null,
+    "HomeScore": 2,
+    "AwayScore": 0,
     "MatchDate": "2025-05-10T00:00:00",
     "Week": 38,
     "HomeLogo": "https://im.mackolik.com/img/logo/buyuk/458.gif",
     "AwayLogo": "https://im.mackolik.com/img/logo/buyuk/19220.gif",
-    "IsFinished": false
-  },
-  {
-    "HomeTeam": "Şanlıurfaspor",
-    "AwayTeam": "Erzurumspor FK",
-    "HomeScore": null,
-    "AwayScore": null,
-    "MatchDate": "2025-05-10T00:00:00",
-    "Week": 38,
-    "HomeLogo": "https://im.mackolik.com/img/logo/buyuk/582.gif",
-    "AwayLogo": "https://im.mackolik.com/img/logo/buyuk/9632.gif",
-    "IsFinished": false
-  },
-  {
-    "HomeTeam": "Ümraniyespor",
-    "AwayTeam": "Manisa FK",
-    "HomeScore": null,
-    "AwayScore": null,
-    "MatchDate": "2025-05-10T00:00:00",
-    "Week": 38,
-    "HomeLogo": "https://im.mackolik.com/img/logo/buyuk/9740.gif",
-    "AwayLogo": "https://im.mackolik.com/img/logo/buyuk/14224.gif",
-    "IsFinished": false
+    "IsFinished": true
   },
   {
     "HomeTeam": "Yeni Malatyaspor",
     "AwayTeam": "Gençlerbirliği",
-    "HomeScore": null,
-    "AwayScore": null,
+    "HomeScore": 0,
+    "AwayScore": 5,
     "MatchDate": "2025-05-10T00:00:00",
     "Week": 38,
     "HomeLogo": "https://im.mackolik.com/img/logo/buyuk/7297.gif",
     "AwayLogo": "https://im.mackolik.com/img/logo/buyuk/7.gif",
-    "IsFinished": false
+    "IsFinished": true
+  },
+  {
+    "HomeTeam": "Fatih Karagümrük",
+    "AwayTeam": "Iğdır FK",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "MatchDate": "2025-05-10T00:00:00",
+    "Week": 38,
+    "HomeLogo": "https://im.mackolik.com/img/logo/buyuk/537.gif",
+    "AwayLogo": "https://im.mackolik.com/img/logo/buyuk/42056.gif",
+    "IsFinished": true
+  },
+  {
+    "HomeTeam": "İstanbulspor",
+    "AwayTeam": "Çorum FK",
+    "HomeScore": 3,
+    "AwayScore": 0,
+    "MatchDate": "2025-05-10T00:00:00",
+    "Week": 38,
+    "HomeLogo": "https://im.mackolik.com/img/logo/buyuk/11.gif",
+    "AwayLogo": "https://im.mackolik.com/img/logo/buyuk/9665.gif",
+    "IsFinished": true
+  },
+  {
+    "HomeTeam": "Şanlıurfaspor",
+    "AwayTeam": "Erzurumspor FK",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "MatchDate": "2025-05-10T00:00:00",
+    "Week": 38,
+    "HomeLogo": "https://im.mackolik.com/img/logo/buyuk/582.gif",
+    "AwayLogo": "https://im.mackolik.com/img/logo/buyuk/9632.gif",
+    "IsFinished": true
+  },
+  {
+    "HomeTeam": "Ümraniyespor",
+    "AwayTeam": "Manisa FK",
+    "HomeScore": 0,
+    "AwayScore": 1,
+    "MatchDate": "2025-05-10T00:00:00",
+    "Week": 38,
+    "HomeLogo": "https://im.mackolik.com/img/logo/buyuk/9740.gif",
+    "AwayLogo": "https://im.mackolik.com/img/logo/buyuk/14224.gif",
+    "IsFinished": true
   },
   {
     "HomeTeam": "Kocaelispor",
