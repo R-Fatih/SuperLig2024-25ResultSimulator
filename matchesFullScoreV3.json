@@ -3390,35 +3390,35 @@
   {
     "HomeTeam": "Eyüpspor",
     "AwayTeam": "Kasımpaşa",
-    "HomeScore": null,
-    "AwayScore": null,
+    "HomeScore": 0,
+    "AwayScore": 3,
     "MatchDate": "2025-05-10T00:00:00",
     "Week": 35,
     "HomeLogo": "https://im.mackolik.com/img/logo/buyuk/557.gif",
     "AwayLogo": "https://im.mackolik.com/img/logo/buyuk/656.gif",
-    "IsFinished": false
+    "IsFinished": true
   },
   {
     "HomeTeam": "Konyaspor",
     "AwayTeam": "Çaykur Rizespor",
-    "HomeScore": null,
-    "AwayScore": null,
+    "HomeScore": 2,
+    "AwayScore": 1,
     "MatchDate": "2025-05-10T00:00:00",
     "Week": 35,
     "HomeLogo": "https://im.mackolik.com/img/logo/buyuk/447.gif",
     "AwayLogo": "https://im.mackolik.com/img/logo/buyuk/448.gif",
-    "IsFinished": false
+    "IsFinished": true
   },
   {
     "HomeTeam": "Trabzonspor",
     "AwayTeam": "Galatasaray",
-    "HomeScore": null,
-    "AwayScore": null,
+    "HomeScore": 0,
+    "AwayScore": 2,
     "MatchDate": "2025-05-10T00:00:00",
     "Week": 35,
     "HomeLogo": "https://im.mackolik.com/img/logo/buyuk/4.gif",
     "AwayLogo": "https://im.mackolik.com/img/logo/buyuk/1.gif",
-    "IsFinished": false
+    "IsFinished": true
   },
   {
     "HomeTeam": "Sivasspor",
