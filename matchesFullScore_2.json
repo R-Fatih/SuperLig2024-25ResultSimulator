@@ -4171,12 +4171,12 @@
   {
     "HomeTeam": "Kocaelispor",
     "AwayTeam": "Keçiörengücü",
-    "HomeScore": null,
-    "AwayScore": null,
+    "HomeScore": 4,
+    "AwayScore": 1,
     "MatchDate": "2025-05-11T00:00:00",
     "Week": 38,
     "HomeLogo": "https://im.mackolik.com/img/logo/buyuk/18.gif",
     "AwayLogo": "https://im.mackolik.com/img/logo/buyuk/1182.gif",
-    "IsFinished": false
+    "IsFinished": true
   }
 ]
